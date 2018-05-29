@@ -1,8 +1,10 @@
 /*
  * queue.c
  *
+ * This software is licensed under the GNU General Public License v3.0.
+ *
  *  Created on: May 22, 2018
- *      Author: rsc
+ *      Author: Ricardo Cirio
  */
 
 #include "queue.h"
